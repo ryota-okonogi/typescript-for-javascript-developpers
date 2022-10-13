@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ryota-okonogi/typescript-for-javascript-developpers/issues"
   },
-  "homepage": "https://github.com/ryota-okonogi/typescript-for-javascript-developpers#readme"
+  "homepage": "https://github.com/ryota-okonogi/typescript-for-javascript-developpers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
